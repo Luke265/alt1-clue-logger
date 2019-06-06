@@ -1,9 +1,9 @@
 {
 	"appName": "Clue logger",
 	"description": "Logs your clue rewards!",
-	"appUrl": "/",
-	"configUrl": "/assets/appconfig.json",
-	"iconUrl": "/assets/icon.png",
+	"appUrl": "../",
+	"configUrl": "appconfig.json",
+	"iconUrl": "icon.png",
 	"defaultWidth": 250,
 	"defaultHeight": 250,
 	"minWidth": 250,
